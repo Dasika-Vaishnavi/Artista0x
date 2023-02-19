@@ -13,3 +13,9 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+```shell
+chainlink init myproject
+cd myproject
+chainlink create mycontract
+```shell
