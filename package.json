@@ -1,0 +1,26 @@
+{
+  "name": "artista0x",
+  "version": "1.0.0",
+  "description": "This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "npx hardhat compile",
+    "deploy": "npx hardhat run scripts/deploy.js --network mumbai",
+    "console": "npx hardhat console --network mumbai"
+  },
+  "author": "Vaishnavi Dasika",
+  "license": "ISC",
+  "dependencies": {
+    "@nomiclabs/hardhat-web3": "^2.0.0",
+    "@truffle/hdwallet-provider": "^2.1.7",
+    "web3": "^1.8.2"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.5"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": []
+}
