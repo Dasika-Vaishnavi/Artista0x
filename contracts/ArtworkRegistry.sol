@@ -46,6 +46,4 @@ function getETHPrice() public view returns (uint256) {
   (, int price, , , ) = priceFeed.latestRoundData();
   return uint256(price);
 }
-chainlink init myproject
-cd myproject
-chainlink create mycontract
+
