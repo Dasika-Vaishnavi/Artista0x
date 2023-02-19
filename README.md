@@ -17,6 +17,9 @@
 * UI Dev tools - React, Node
 * Smart Contract Language - Solidity
 -----
+## Smart Contact deplyment
+## [Polygon Mumbai Testnet](https://mumbai.polygonscan.com/address/0xcc6114988b8e28c7d44833795e37955ad81d96c3)
+-----
 ## Advantages and Challenges
 * One of the primary advantages of the Artista0x platform is that it provides artists with a secure and tamper-proof way of registering and authenticating their artwork. By leveraging the power of blockchain technology, the platform eliminates intermediaries, reducing the cost of registering and verifying the artwork.
 
